@@ -46,3 +46,21 @@ the current contribution rules and CI checks apply. Please do not start new work
 |---|---|---|---|
 | [refugeeServicesBackend](https://github.com/FIH-past-projects/refugeeServicesBackend) | Refugee services platform (backend, 'tico') | 2022 | FIH project (Costa Rica) |
 | [refugeeServicesFrontEnd](https://github.com/FIH-past-projects/refugeeServicesFrontEnd) | Refugee services platform (front end) | 2022 | FIH project (Costa Rica) |
+
+### Fremont
+
+| Repository | What it is | Years | Origin |
+|---|---|---|---|
+| [proximity-labs-fremont](https://github.com/FIH-past-projects/proximity-labs-fremont) (private) | Fremont website (v1) | 2022-2024 | FIH project (2022-24) (unconfirmed) |
+
+### MayaRoots
+
+| Repository | What it is | Years | Origin |
+|---|---|---|---|
+| [MayanRoots](https://github.com/FIH-past-projects/MayanRoots) (private) | MayaRoots (separate snapshot) | 2025 | FIH project (2025-26) |
+
+### Montevideo Recycling
+
+| Repository | What it is | Years | Origin |
+|---|---|---|---|
+| [montevideo-backend](https://github.com/FIH-past-projects/montevideo-backend) (private) | Montevideo recycling - Django API | 2024 | Senior design (2023-24) |
